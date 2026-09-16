@@ -1,16 +1,33 @@
-## Hi there 👋
+# Alperen Ulutaş
 
-<!--
-**UlutasAlperen/UlutasAlperen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer / System Administrator**
 
-Here are some ideas to get you started:
+DevOps Engineer and System Administrator experienced in designing and operating Kubernetes environments,
+virtualization platforms, monolithic and distributed systems, GitOps-based CI/CD pipelines, and monitoring solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Strong foundation in Linux systems administration, networking, containerization, automation, and infrastructure
+troubleshooting, with a focus on building reliable, scalable, and secure infrastructure across diverse environments.
+
+## Infrastructure & DevOps
+
+- Kubernetes, Docker, Podman
+- Linux: Ubuntu, Debian, Rocky Linux, FreeBSD
+- Proxmox VE
+- ArgoCD, Jenkins, Git, GitOps
+- HAProxy, Keepalived, Nginx, Envoy Gateway
+- Prometheus, Grafana, Loki, VictoriaMetrics, Zabbix
+- PostgreSQL, MySQL, CockroachDB
+- Python, Go, Bash
+
+## Currently Exploring
+
+- Kubernetes high availability and failure scenarios
+- GitOps infrastructure management
+- Kubernetes networking and Gateway API
+- Distributed storage
+- Infrastructure automation
+
+## Contact
+
+- Website: https://ulutasalperen.com
+- Blog: https://blog.ulutasalperen.com
