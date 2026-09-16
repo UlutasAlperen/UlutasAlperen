@@ -21,11 +21,16 @@ troubleshooting, with a focus on building reliable, scalable, and secure infrast
 
 ## Currently Exploring
 
-- Kubernetes high availability and failure scenarios
-- GitOps infrastructure management
-- Kubernetes networking and Gateway API
-- Distributed storage
-- Infrastructure automation
+- Kubernetes high availability, failure scenarios, and disaster recovery
+- Advanced Kubernetes networking and Gateway API
+- Infrastructure as Code with Terraform and Ansible
+- Distributed storage systems and Kubernetes persistent storage
+- Longhorn, Ceph, and replicated storage architectures
+- Firecracker microVMs and lightweight virtualization
+- Building isolated workloads with Firecracker and container-based environments
+- Linux networking, namespaces, cgroups, and container internals
+- CI/CD automation and GitOps workflows
+- Service discovery, load balancing, and highly available infrastructure
 
 ## Contact
 
