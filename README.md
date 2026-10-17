@@ -9,7 +9,7 @@ Strong foundation in Linux systems administration, networking, containerization,
 troubleshooting, with a focus on building reliable, scalable, and secure infrastructure across diverse environments.
 
 ## Infrastructure & DevOps
-
+- AWS, GCP
 - Kubernetes, Docker, Podman
 - Linux: Ubuntu, Debian, Rocky Linux, FreeBSD
 - Proxmox VE
